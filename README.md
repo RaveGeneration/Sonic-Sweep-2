@@ -13,6 +13,11 @@ MacOS:
 
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
+**1.0.6 | 28-05-2024**
+
+DSP: Improved daisy chain fades - smooth operation, no clicks
+
+
 **1.0.5 | 27-05-2024**
 
 DSP: New parameter - Console Age
