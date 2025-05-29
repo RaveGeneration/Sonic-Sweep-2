@@ -17,6 +17,8 @@ Rave Generation: Sonic Sweep 2 - Changelog
 
 DSP: Improved daisy chain fades - smooth operation, no clicks
 
+GUI: Complete visual redesign
+
 
 **1.0.5 | 27-05-2024**
 
