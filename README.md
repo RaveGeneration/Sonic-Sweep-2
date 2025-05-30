@@ -21,7 +21,7 @@ DSP: NJM4580 op-amp rate limiting - Authentic mixing console character
 
 **1.0.6 | 29-05-2024**
 
-DSP: Improved daisy chain fades - smooth operation, no clicks
+DSP: Improved daisy chain fades - Smooth operation, no clicks
 
 GUI: Complete visual redesign
 
