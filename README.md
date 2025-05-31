@@ -16,7 +16,7 @@ Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
 **1.0.7 | 30-05-2024**
 
-DSP: NJM4580 op-amp rate limiting - Authentic mixing console character
+DSP: NJM4560 op-amp rate limiting - Authentic mixing console character
 
 
 **1.0.6 | 29-05-2024**
