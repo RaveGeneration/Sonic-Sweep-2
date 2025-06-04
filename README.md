@@ -14,6 +14,13 @@ MacOS:
 
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
+**1.0.8 | 03-06-2024**
+
+DSP: Stability improvements
+
+DSP: Presets added by Catscan and Re-Style
+
+
 **1.0.7 | 30-05-2024**
 
 DSP: NJM4560 op-amp rate limiting - Authentic mixing console character
