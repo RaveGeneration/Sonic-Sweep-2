@@ -14,6 +14,13 @@ MacOS:
 
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
+**1.0.9 | 05-06-2024**
+
+DSP: Bus fader now controls final output level (mixing console topology)
+
+GUI: Added master output clip LED
+
+
 **1.0.8 | 03-06-2024**
 
 DSP: Stability improvements
