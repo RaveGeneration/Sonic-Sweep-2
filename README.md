@@ -14,6 +14,19 @@ MacOS:
 
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
+**1.1.0 | 06-06-2024**
+
+DSP: Low cut filter - Corrected cascaded filter math for authentic 75Hz response
+
+DSP: Hi Mid EQ - Improved frequency mapping (500Hz-18kHz logarithmic) and BW response 
+
+DSP: Lo Mid EQ - Improved frequency mapping (330Hz center) and wider BW range
+
+DSP: Hi Mid gain - Extended range to 15.5dB for extra headroom matching mixing console
+
+DSP: Analog response matching - Improved DC blocker and bandwidth limiting for warmer console character
+
+
 **1.0.9 | 05-06-2024**
 
 DSP: Bus fader now controls final output level (mixing console topology)
