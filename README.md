@@ -16,9 +16,13 @@ Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
 **1.1.1 | 07-06-2024**
 
-DSP: Console bandwidth - Authentic top-end response for smoother, more natural highs
+DSP: Console bandwidth - Matched top-end response for smoother, more natural highs
 
 DSP: Hi Mid EQ - Refined tone for tighter, more musical character
+
+DSP: Analog console character - Subtle frequency shaping always active for classic analog warmth 
+
+DSP: Refined low-end - Tighter, more focused bass response
 
 
 **1.1.0 | 06-06-2024**
