@@ -15,6 +15,7 @@ MacOS:
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
 **1.1.2 | 13-06-2024**
+
 DSP: Mute/bypass behavior - Fixed authentic console operation
 
 DSP: DAISY chain routing - Muted channels no longer interfere with fader logic of active channels
