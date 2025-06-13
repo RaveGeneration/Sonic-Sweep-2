@@ -14,6 +14,18 @@ MacOS:
 
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
+**1.1.2 | 13-06-2024**
+DSP: Mute/bypass behavior - Fixed authentic console operation
+
+DSP: DAISY chain routing - Muted channels no longer interfere with fader logic of active channels
+
+DSP: EQ shelves - Now properly bypass when channels are muted
+
+DSP: Analog variation engine - Subtle per-channel differences, L/R variation, crosstalk, and color for analog realism
+
+DSP: Presets added by Zany
+
+
 **1.1.1 | 07-06-2024**
 
 DSP: Console bandwidth - Matched top-end response for smoother, more natural highs
