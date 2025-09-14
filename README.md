@@ -65,29 +65,29 @@ DSP: Stability improvements
 DSP: Presets added by Catscan and Re-Style
 
 
-**1.0.7 | 30-05-2024**
+**1.0.7 | 30-05-2025**
 
 DSP: NJM4560 op-amp rate limiting - Authentic mixing console character
 
 
-**1.0.6 | 29-05-2024**
+**1.0.6 | 29-05-2025**
 
 DSP: Improved daisy chain fades - Smooth operation, no clicks
 
 GUI: Complete visual redesign
 
 
-**1.0.5 | 27-05-2024**
+**1.0.5 | 27-05-2025**
 
 DSP: New parameter - Console Age
 
 
-**1.0.4 | 26-05-2024**
+**1.0.4 | 26-05-2025**
 
 DSP: Console noise - Matched mixing console levels
 
 
-**1.0.3 | 26-05-2024**
+**1.0.3 | 26-05-2025**
 
 DSP: Console noise - Improved logarithmic scaling
 
@@ -98,7 +98,7 @@ GUI: Background optimized for 2x scaling
 GUI: Tightened knobs and faders for more precise control
 
 
-**1.0.2 | 25-05-2024**
+**1.0.2 | 25-05-2025**
 
 DSP: Fixed - EQ IN not disabling shelves
 
@@ -113,6 +113,6 @@ GUI: Opacity 0%-100%
 GUI: Undo/Redo
 
 
-**1.0.1 | 24-05-2024**
+**1.0.1 | 24-05-2025**
 
 DSP: Shelving filters update
