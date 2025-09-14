@@ -14,7 +14,7 @@ MacOS:
 
 Rave Generation: Sonic Sweep 2 - Changelog
 -------------------------------------------------------------------------------------------
-**1.1.2 | 13-06-2024**
+**1.1.2 | 13-06-2025**
 
 DSP: Mute/bypass behavior - Fixed authentic console operation
 
@@ -27,7 +27,7 @@ DSP: Analog variation engine - Subtle per-channel differences, L/R variation, cr
 DSP: Presets added by Zany
 
 
-**1.1.1 | 07-06-2024**
+**1.1.1 | 07-06-2025**
 
 DSP: Console bandwidth - Matched top-end response for smoother, more natural highs
 
@@ -38,7 +38,7 @@ DSP: Analog console character - Subtle frequency shaping always active for class
 DSP: Refined low-end - Tighter, more focused bass response
 
 
-**1.1.0 | 06-06-2024**
+**1.1.0 | 06-06-2025**
 
 DSP: Low cut filter - Corrected cascaded filter math for authentic 75Hz response
 
@@ -51,14 +51,14 @@ DSP: Hi Mid gain - Extended range to 15.5dB for extra headroom matching mixing c
 DSP: Analog response matching - Improved DC blocker and bandwidth limiting for warmer console character
 
 
-**1.0.9 | 05-06-2024**
+**1.0.9 | 05-06-2025**
 
 DSP: Bus fader now controls final output level (mixing console topology)
 
 GUI: Added master output clip LED
 
 
-**1.0.8 | 03-06-2024**
+**1.0.8 | 03-06-2025**
 
 DSP: Stability improvements
 
