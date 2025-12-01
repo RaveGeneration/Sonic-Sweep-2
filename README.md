@@ -10,4 +10,4 @@ C:\Users\username\Documents\Rave Generation\Sonic Sweep 2\Presets
 MacOS:
 /Users/username/Documents/Rave Generation/Sonic Sweep 2/Presets
 
-![ss2_screen2](https://github.com/user-attachments/assets/a9f4b5f5-dc2f-4f7f-a163-70e254adf000)
+<img width="1352" height="1264" alt="ss2 114 screen" src="https://github.com/user-attachments/assets/48393bbe-ffb7-45e7-b74f-beda10e0582c" />
