@@ -1,1 +1,1 @@
-<img width="1449" height="1353" alt="ss2 120 screen" src="https://github.com/user-attachments/assets/f00da4ce-28a5-460e-8c88-84a29d146902" /><img width="1272" height="760" alt="SS2 120 Promo 1270_760" src="https://github.com/user-attachments/assets/a0c5695d-801f-4a63-a6c9-9bc2b6075edf" />
+<img width="1449" height="1353" alt="ss2 120 screen" src="https://github.com/user-attachments/assets/f00da4ce-28a5-460e-8c88-84a29d146902" />
